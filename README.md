@@ -77,4 +77,7 @@ Optimized decision-making & enhanced distribution efficiency for sustained growt
 `#DataAnalytics` `#PowerBI` `#Excel` `#SQL`
 
 ![Screenshot 2025-02-27 092037](https://github.com/user-attachments/assets/69586979-d01b-49cb-9142-cfc4827ed20b)
+![Screenshot 2025-02-27 092037](https://github.com/user-attachments/assets/ab0db2c1-3b11-4e72-8a89-36fe9d33f021)
+![image](https://github.com/user-attachments/assets/97ac1f53-be5e-46d8-bea8-f6416cd96ccf)
+
 
