@@ -71,9 +71,9 @@ Grateful for the mentorship and hands-on exposure, I’m excited to apply these 
 Optimized decision-making & enhanced distribution efficiency for sustained growth.  
 **Foresight BI & Analytics**  
 
-## Key Insight 
+# 📌 Key Insight 
 
-# Sales Performance Insights  
+### Sales Performance Insights  
 
 - **Designed and developed** a Power BI dashboard to track sales revenue, distributor performance, and product sales trends.  
 - **Analyzed** $11.12bn in actual revenue, identifying key contributors to sales growth.  
@@ -88,7 +88,7 @@ Optimized decision-making & enhanced distribution efficiency for sustained growt
   - Private  
 - **Monitored** city-wise revenue performance, identifying **top 25** and **bottom 25** cities for strategic decision-making.  
 
-# Market Performance Insights  
+### Market Performance Insights  
 
 - **Conducted** market performance analysis with a focus on revenue and quantity achieved.  
 - **Achieved** **131.52%** of the revenue target and **131.70%** of the volume target, demonstrating strong sales execution.  
