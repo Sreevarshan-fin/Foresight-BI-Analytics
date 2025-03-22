@@ -71,6 +71,36 @@ Grateful for the mentorship and hands-on exposure, I’m excited to apply these 
 Optimized decision-making & enhanced distribution efficiency for sustained growth.  
 **Foresight BI & Analytics**  
 
+## Key Insight 
+
+# Sales Performance Insights  
+
+- **Designed and developed** a Power BI dashboard to track sales revenue, distributor performance, and product sales trends.  
+- **Analyzed** $11.12bn in actual revenue, identifying key contributors to sales growth.  
+- **Provided insights** into top-performing distributors, with **Gerlach LLC** leading in revenue contribution.  
+- **Evaluated** revenue performance across different product classes, highlighting top-performing categories such as **analgesics** and **antiseptics**.  
+- **Identified** revenue growth across different sales channels:  
+  - Pharmacy  
+  - Hospital  
+  - Retail  
+  - Government  
+  - Institution  
+  - Private  
+- **Monitored** city-wise revenue performance, identifying **top 25** and **bottom 25** cities for strategic decision-making.  
+
+# Market Performance Insights  
+
+- **Conducted** market performance analysis with a focus on revenue and quantity achieved.  
+- **Achieved** **131.52%** of the revenue target and **131.70%** of the volume target, demonstrating strong sales execution.  
+- **Evaluated** sales representative performance, identifying **top performers** in revenue and quantity achieved.  
+- **Assessed** team performance across different market segments:  
+  - **Delta**  
+  - **Charlie**  
+  - **Bravo**  
+  - **Alfa**  
+- **Provided insights** into product performance, focusing on **revenue vs. quantity sold** for key pharmaceutical products.  
+
+
 ---  
 
 ### 🔖 Hashtags  
