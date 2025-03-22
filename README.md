@@ -103,9 +103,6 @@ Optimized decision-making & enhanced distribution efficiency for sustained growt
 
 ---  
 
-### 🔖 Hashtags  
-`#DataAnalytics` `#PowerBI` `#Excel` `#SQL`
-
 ![Screenshot 2025-02-27 091935](https://github.com/user-attachments/assets/11ca55dc-406f-4441-9139-5f812aa7c66a)
 
 ![Screenshot 2025-02-27 092037](https://github.com/user-attachments/assets/ab0db2c1-3b11-4e72-8a89-36fe9d33f021)
