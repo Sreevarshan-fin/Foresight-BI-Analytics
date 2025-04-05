@@ -1,5 +1,11 @@
 # Foresight-BI-Analytics
  Power BI Developer Virtual Intern, Foresight BI &amp; Analytics (Feb 2025) – Built Power BI dashboards  with DAX for sales and marketing analysis at Forggith Pharmaceuticals
+
+### **Check out the link to my interactive dashboard**
+https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
 # 💊 Forggith Pharmaceuticals: Data-Driven Sales & Market Insights  
 
 I'm thrilled to complete my **Power BI Developer Internship** at **Foresight BI & Analytics**!  
