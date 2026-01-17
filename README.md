@@ -5,8 +5,11 @@
 # Foresight BI & Analytics – Sales and Marketing Analytics Dashboard
 
 **Role:** Power BI Developer (Virtual Internship)
+
 **Organization:** Foresight BI & Analytics
+
 **Client:** Forggith Pharmaceuticals
+
 **Duration:** February 2025
 
 **Click to view the interactive Power BI dashboard**
