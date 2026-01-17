@@ -1,8 +1,8 @@
-# Foresight-BI-Analytics
+
+ # Foresight BI & Analytics – Sales and Marketing Analytics Dashboard
  
 ---
 
-# Foresight BI & Analytics – Sales and Marketing Analytics Dashboard
 
 **Role:** Power BI Developer (Virtual Internship)
 
