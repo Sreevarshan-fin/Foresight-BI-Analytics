@@ -1,113 +1,145 @@
 # Foresight-BI-Analytics
- Power BI Developer Virtual Intern, Foresight BI &amp; Analytics (Feb 2025) – Built Power BI dashboards  with DAX for sales and marketing analysis at Forggith Pharmaceuticals
+ 
+---
 
-### **Check out the link to my interactive dashboard**
-https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Foresight BI & Analytics – Sales and Marketing Analytics Dashboard
 
+**Role:** Power BI Developer (Virtual Internship)
+**Organization:** Foresight BI & Analytics
+**Client:** Forggith Pharmaceuticals
+**Duration:** February 2025
 
+**Click to view the interactive Power BI dashboard**
 
-# 💊 Forggith Pharmaceuticals: Data-Driven Sales & Market Insights  
-
-I'm thrilled to complete my **Power BI Developer Internship** at **Foresight BI & Analytics**!  
-
-## 📊 Power BI Reporting Requirement  
-
-Forggith is looking to create **Power BI Reports** to assist in guiding their strategies, tactics, and operations as a company. To start, they have identified key metrics they would like to report on.  
-
-### 🛒 Sales Performance Overview  
-**Sliced by:** Year, Month, Quarter, Team  
-
-1. **Total Revenue**  
-2. **Total Revenue Year-To-Date (YTD)**  
-3. **Total Revenue Previous Year YTD**  
-4. **Total Revenue Same Period Last Year (SPLY)**  
-5. **Total Target**  
-6. **Total Target YTD**  
-7. **Actual Revenue Performance YTD vs Target YTD**  
-8. **Revenue Month-on-Month Percentage Change**  
-9. **Revenue Distribution by Location**  
-10. **Revenue by Channel**  
-11. **Revenue by Product Class**  
-
-### 📣 Marketing Performance  
-**Sliced by:** Year, Quarter, Month, Product Category, Team  
-
-1. **Revenue Achieved vs Revenue Target**  
-2. **Volume Achieved vs Volume Target**  
-3. **Actual Revenue by Sales Representative**  
-4. **Target Revenue Achievement % by Sales Representative**  
-5. **Actual Volume by Sales Representative**  
-6. **Target Volume Achievement by Sales Representative**  
-7. **Actual Revenue Achievement by Sales Team**  
-8. **Revenue and Volume Achievement by Product**  
-
-## 📌 Key Takeaways & Skills Gained  
-
-- 📊 **Enhanced Expertise** – Advanced data visualization & dashboard optimization.  
-- 📈 **Sharpened Analytical Skills** – Gained insights into real-world data complexities.  
-- 💡 **Actionable Intelligence** – Transformed raw data into meaningful business insights.  
-
-Grateful for the mentorship and hands-on exposure, I’m excited to apply these skills in future data analytics endeavors! 🚀  
-
-## 📌 Key Tools Used  
-
-- 📊 **Excel** – Data entry & basic analysis  
-- ⚡ **DAX** – Advanced calculations  
-- 📈 **Power BI** – Interactive dashboards  
-
-## 🔍 Forggith Pharmaceuticals: Data-Driven Sales & Market Insights  
-
-### 📌 About the Company  
-
-- 🏭 **Location:** Singapore  
-- 💊 **Industry:** Pharmaceutical Manufacturing & Distribution  
-
-### 📊 Sales Data & Reporting  
-
-- 📋 **Standardized Data Capture** – Distributors use a structured template.  
-- 📤 **Monthly Data Submission** – Enables centralized reporting & real-time tracking.  
-
-### 📌 Business Objectives  
-
-- 📈 **Sales Growth & Market Expansion** – Enhancing distribution strategies through data.  
-- 📊 **KPI Monitoring & Performance Analysis** – Ensuring efficiency in sales & market performance.  
-
-### 🔹 Impact  
-
-Optimized decision-making & enhanced distribution efficiency for sustained growth.  
-**Foresight BI & Analytics**  
-
-# 📌 Key Insight 
-
-### Sales Performance Insights  
-
-- **Designed and developed** a Power BI dashboard to track sales revenue, distributor performance, and product sales trends.  
-- **Analyzed** $11.12bn in actual revenue, identifying key contributors to sales growth.  
-- **Provided insights** into top-performing distributors, with **Gerlach LLC** leading in revenue contribution.  
-- **Evaluated** revenue performance across different product classes, highlighting top-performing categories such as **analgesics** and **antiseptics**.  
-- **Identified** revenue growth across different sales channels:  
-  - Pharmacy  
-  - Hospital  
-  - Retail  
-  - Government  
-  - Institution  
-  - Private  
-- **Monitored** city-wise revenue performance, identifying **top 25** and **bottom 25** cities for strategic decision-making.  
-
-### Market Performance Insights  
-
-- **Conducted** market performance analysis with a focus on revenue and quantity achieved.  
-- **Achieved** **131.52%** of the revenue target and **131.70%** of the volume target, demonstrating strong sales execution.  
-- **Evaluated** sales representative performance, identifying **top performers** in revenue and quantity achieved.  
-- **Assessed** team performance across different market segments:  
-  - **Delta**  
-  - **Charlie**  
-  - **Bravo**  
-  - **Alfa**  
-- **Provided insights** into product performance, focusing on **revenue vs. quantity sold** for key pharmaceutical products.  
+[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
----  
+---
+
+## Project Overview
+
+Forggith Pharmaceuticals is a pharmaceutical manufacturing and distribution company operating across multiple regions and sales channels.
+As the business grew, leadership found it increasingly difficult to track sales performance, target achievement, and market trends using existing reports.
+
+This project focused on building a centralized Power BI dashboard that brings together **sales and marketing performance** into a single, easy-to-use view.
+The aim was to move away from fragmented and manual reporting and provide a reliable analytics layer to support everyday business decisions.
+
+---
+
+## Business Context and Requirements
+
+The business needed a reporting solution that could:
+
+* Provide consistent visibility into sales and marketing KPIs
+* Compare actual performance against defined targets
+* Highlight top- and bottom-performing products, distributors, cities, and sales representatives
+* Reduce dependency on verbal updates and manual data compilation
+
+Sales data was collected monthly from distributors using a standardized format, making it possible to consolidate and analyze the data centrally.
+
+---
+
+## Analytical Scope
+
+### Sales Performance Analysis
+
+Sales performance was analyzed across several dimensions, including:
+
+* Time (Year, Quarter, Month)
+* Sales teams and individual representatives
+* Product classes and individual products
+* Sales channels and geographic locations
+
+The dashboard tracked key metrics such as:
+
+* Total revenue and revenue trends
+* Year-to-date (YTD) performance and historical comparisons
+* Actual revenue versus targets
+* Month-on-month revenue growth
+* Revenue contribution by channel, product class, and city
+
+This analysis helped identify major revenue contributors, channel-level trends, and regional performance differences, including top- and bottom-performing cities.
+
+---
+
+### Marketing and Execution Performance
+
+Marketing and execution effectiveness was evaluated using:
+
+* Revenue achieved versus revenue targets
+* Volume achieved versus volume targets
+* Individual and team-level target achievement
+* Revenue and volume contribution by sales representatives
+
+The dashboard highlighted strong overall performance against targets, identified high-performing teams and individuals, and provided product-level insights comparing revenue and quantity trends across markets.
+
+---
+
+## Business Impact
+
+The dashboard helped the business by:
+
+* Providing clear and consistent visibility into sales and marketing performance
+* Making it easier to identify growth opportunities and performance gaps
+* Improving alignment between targets and execution
+* Reducing the time spent on manual and ad-hoc reporting
+
+Overall, the solution supported more structured performance tracking and better-informed decision-making.
+
+---
+
+## Skills and Techniques Applied
+
+* Data modeling and validation in Power BI
+* Creation of calculated columns and DAX measures
+* KPI tracking with conditional formatting
+* Use of bookmarks for interactive visuals
+* Page navigation using buttons
+* Tooltips to improve report usability
+* Dynamic titles based on applied filters
+* Publishing and sharing reports through Power BI Service
+* Scheduled data refresh using a gateway
+* Date table creation using M language
+
+---
+
+## Tech Stack
+
+* SQL
+* Power BI Desktop
+* DAX
+* DAX Studio (for model optimization)
+* Microsoft Excel
+
+---
+
+## Domain Knowledge Gained
+
+* Pharmaceutical sales and distribution workflows
+* Revenue, margin, and cost-related metrics
+* Sales channel performance analysis
+* Benchmarking concepts such as YTD, YTG, and SPLY
+
+---
+
+## Key Learnings
+
+* Translating business requirements into practical dashboards
+* Designing reporting models that are scalable and reusable
+* Communicating insights clearly to non-technical stakeholders
+* Applying analytics to real-world sales and marketing scenarios
+
+---
+
+## Conclusion
+
+This project demonstrates how Power BI can be used to deliver meaningful sales and marketing insights in a real business environment.
+By consolidating distributed sales data into a single dashboard, Forggith Pharmaceuticals can now track performance more effectively and make data-driven decisions with greater confidence.
+
+
+-------------
+
+
 
 ![Screenshot 2025-02-27 091935](https://github.com/user-attachments/assets/11ca55dc-406f-4441-9139-5f812aa7c66a)
 
